@@ -18,4 +18,3 @@ def get_data():
         if raw_data:
             return json.loads(raw_data)
         return None
-
